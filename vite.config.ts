@@ -4,7 +4,8 @@ import tsconfigPaths from 'vite-tsconfig-paths';
 import mkcert from 'vite-plugin-mkcert';
 
 export default defineConfig({
-  // base: '/',‍
+  base: '/',
+
   plugins: [
     // Uncomment the following line to enable solid-devtools.
     // For more info see https://github.com/thetarnav/solid-devtools/tree/main/packages/extension#readme
