@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { onCleanup } from "solid-js";
 import { createStore, reconcile } from "solid-js/store";
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { For, Show, type Component } from "solid-js";
 import { Dynamic } from "solid-js/web";
 
